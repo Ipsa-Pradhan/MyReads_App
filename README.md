@@ -7,3 +7,7 @@ This is the project in which i have created a App for a bookshelf. This bookshel
 - Then run npm start to start the project.
 - The project will run on http://localhost:3000/
 - To stop the server press CTRL+C.
+
+
+node_module folder is not upload to the repository. This is done because the folder can be very heavy (several hundreds of Mb).
+So, users want to run your project locally, they will have to run "npm i" before "ng serve".
